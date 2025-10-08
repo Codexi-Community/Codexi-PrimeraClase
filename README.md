@@ -30,22 +30,48 @@ Número 4 = 2
 ¿Crees que sería mejor un for o while?
 
 
-# Primer ejercicio
+## Primer ejercicio
 
 Realiza el código necesario en equipos para poder escribir los 2 primeros números de la succesión de fibonnaci, hazlo de la forma más sencilla posible.
 
 
-# Segundo ejercicio
+## Segundo ejercicio
 
 Refactoriza el código anterior para permitirle al programa iterar sobre los 5 primeros números de la sucessión de fibonnaci.
 
-# Primer problema
+## Primer problema
 
 Cambia la lógica del programa para que permita mostrar los 50 primeros números de la succesión de fibonnaci.
 
-# Segundo problema
+## Segundo problema
 
 Refactoriza el código para quitar líneas innecesarias y agilizar el proceso.
 
+## 2. Testing
 
-# 2. Kata
+En esta parte vamos a intentar aprender un poco sobre como realizar tests en el lenguaje de programación que hayamos elegido.
+
+## Testing basico
+
+Lo primero que vamos a hacer es entender como funcionan los test en el lenguaje de programación elegido.
+
+Una vez entendido dicho test realizaremos una prueba, dicha prueba consistirá en comprobar si la operación: 1+1 da como resultado 2.
+
+## Testing integrando el programa
+
+En esta fase agregaremos las funciones o clases en el test para comprobar si el primer número de la succesión de fibonnaci da como resultado 0.
+
+## Refactorizando el código para pasar los test
+
+En esta fase lo que tenemos que hacer es refactorizar nuestro código para permitir definir el número de repeticiones de fibonnaci quereis obtener de dicha función. 
+
+Una vez hecho esto intenta hacer una repetición de testing, primero definiremos un diccionario que tenga como clave el número de repeticiones que debe hacer el programa para obtener el número fibonnaci que tendremos almacenado en el valor de dicha clave en el diccionario.
+
+
+# Dudas
+
+- ¿Donde se hacen las actividades?
+Crearemos una carpeta dentro de este proyecto para el lenguaje que querramos y en esa carpeta realizaremos la actividad.
+
+- ¿Debemos hacer un fork?
+Depende, si lo estas haciendo en la llamada de la reunion organizada entonces no hace falta dicho fork, los administradores te dirán unas instrucciones para trabajar en este proyecto. En caso de que lo estes haciendo por tu cuenta entonces si haría falta realizar dicho fork.
