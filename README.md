@@ -21,7 +21,7 @@ Número 3 = 1
 Número 4 = 2
 ```
 
-### 1. Sintaxis - Creación de variables
+## 1. Sintaxis - Creación de variables
 ##### Preguntas previas
 ¿Cuantas variables crees que vas a necesitar para resolver este ejercicio?
 
@@ -30,20 +30,20 @@ Número 4 = 2
 ¿Crees que sería mejor un for o while?
 
 
-## Primer ejercicio
+### Primer ejercicio
 
 Realiza el código necesario en equipos para poder escribir los 2 primeros números de la succesión de fibonnaci, hazlo de la forma más sencilla posible.
 
 
-## Segundo ejercicio
+### Segundo ejercicio
 
 Refactoriza el código anterior para permitirle al programa iterar sobre los 5 primeros números de la sucessión de fibonnaci.
 
-## Primer problema
+### Primer problema
 
 Cambia la lógica del programa para que permita mostrar los 50 primeros números de la succesión de fibonnaci.
 
-## Segundo problema
+### Segundo problema
 
 Refactoriza el código para quitar líneas innecesarias y agilizar el proceso.
 
@@ -51,17 +51,17 @@ Refactoriza el código para quitar líneas innecesarias y agilizar el proceso.
 
 En esta parte vamos a intentar aprender un poco sobre como realizar tests en el lenguaje de programación que hayamos elegido.
 
-## Testing basico
+### Testing basico
 
 Lo primero que vamos a hacer es entender como funcionan los test en el lenguaje de programación elegido.
 
 Una vez entendido dicho test realizaremos una prueba, dicha prueba consistirá en comprobar si la operación: 1+1 da como resultado 2.
 
-## Testing integrando el programa
+### Testing integrando el programa
 
 En esta fase agregaremos las funciones o clases en el test para comprobar si el primer número de la succesión de fibonnaci da como resultado 0.
 
-## Refactorizando el código para pasar los test
+### Refactorizando el código para pasar los test
 
 En esta fase lo que tenemos que hacer es refactorizar nuestro código para permitir definir el número de repeticiones de fibonnaci quereis obtener de dicha función. 
 
