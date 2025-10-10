@@ -16,7 +16,7 @@ Vamos a imprimir los 100 primeros numeros de la succesión de fibonnaci.
 ```Bash
 Succesión - Secuencia de fibonnaci
 Número 1 = 0
-Número 2 = 1
+Número 2 = 0
 Número 3 = 1
 Número 4 = 2
 ```
